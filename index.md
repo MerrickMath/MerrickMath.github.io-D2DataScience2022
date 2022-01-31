@@ -8,7 +8,7 @@ Welcome to Understanding Statistics. Through this course your analytial skills w
 ### In Class Activities
 <p>
       <ul>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activites/SuperHeroIntro.pdf"> Super Hero Introduction</a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Introduction</a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/challenge1.html"> The Road Mordor </a> </li>
       </ul>
 </p>
