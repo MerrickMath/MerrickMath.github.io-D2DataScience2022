@@ -8,4 +8,4 @@ Frodo and Sam are attempting to carry the Ring of Power to Mordor to destroy, ri
 
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath-datachallenge/c1jpg.jpg">   </p>
 
-You may submit your answers using <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7chmcB67xwbOdJeWTTxn_9Odz6ZrlnaJUStq5QyHhCZmPFg/viewform?usp=sf_link"> this form </a>. 
+You may gain 100 XP by submitting your answers to Mr. Merrick 
