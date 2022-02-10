@@ -46,8 +46,9 @@ What Data are you interested in exploring? LET ME KNOW!
 
 ### Results 
 <p align="center">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgekvyFTey6Qg0MIqPmVvmDpREXupcuMt3oaaxG83o4BMX00TjOf0rCCbI4MNfyM19CcpFjqLE7Ve2/pubhtml?gid=1256266104&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "350"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgekvyFTey6Qg0MIqPmVvmDpREXupcuMt3oaaxG83o4BMX00TjOf0rCCbI4MNfyM19CcpFjqLE7Ve2/pubhtml?gid=1256266104&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "500"></iframe>
 </p>
+
 
 
 ___
