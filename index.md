@@ -32,6 +32,11 @@ Through this course your analytial skills will be put to the test. Do you think 
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week9.html"> Week 9:  </a> </li> --->
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week10.html"> Week 10:  </a> </li> --->
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week11.html"> Week 11:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week12.html"> Week 12:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week13.html"> Week 13:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week14.html"> Week 14:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week15.html"> Week 15:  </a> </li> --->
+        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week16.html"> Week 16:  </a> </li> --->
       </ul>
 </p>
 
