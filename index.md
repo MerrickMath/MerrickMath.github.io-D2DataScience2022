@@ -40,7 +40,6 @@ Through this course your analytial skills will be put to the test. Do you think 
       </ul>
 </p>
 
-
 Many of the challenges will require the use of R Studio. In this course we will conduct our data analysis using R Studio which can be accessed via the  <a href="https://jupyter.renert.housegordon.com"> Renert Jupyter Server</a>. 
 
 What Data are you interested in exploring? LET ME KNOW! 
