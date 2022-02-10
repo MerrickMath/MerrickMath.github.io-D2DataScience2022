@@ -11,7 +11,7 @@ Through this course your analytial skills will be put to the test. Do you think 
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/SuperHeroIntro.pdf"> Super Hero Introduction</a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/challenge1.html"> The Road Mordor (15 XP) </a> </li>
         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRTXAveiOzcClXfHB_X2g4RSsnCypqOgUfYm-Tz8H-82S46Q/viewform?usp=sf_link"> First Class Survey (10 XP) </a> </li>
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Week2.pdf"> Exploring Music I (10 XP per question) </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Week2.pdf"> Exploring Music I (10 XP Per Question) </a> </li> 
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Week2Soln.pdf"> Exploring Music I SOLUTIONS </a> </li> --->  
       </ul>
 </p>
