@@ -44,6 +44,9 @@ Many of the challenges will require the use of R Studio. In this course we will 
 
 What Data are you interested in exploring? LET ME KNOW! 
 
+### DataCamp 
+For this course you will also have the option to work on <a href="https://www.datacamp.com"> Data Camp </a>. This is an EXCELLENT resource for teaching you data anayltic skills from simple excel spread sheets to deep machine learning algorthims. 
+
 ### Results 
 <p align="center">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgekvyFTey6Qg0MIqPmVvmDpREXupcuMt3oaaxG83o4BMX00TjOf0rCCbI4MNfyM19CcpFjqLE7Ve2/pubhtml?gid=1256266104&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "500"></iframe>
