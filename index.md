@@ -61,7 +61,12 @@ What Data are you interested in exploring? LET ME KNOW!
 ---
 
 ### DataCamp 
-For this course you will also have the option to work on <a href="https://www.datacamp.com"> Data Camp </a>. This is an EXCELLENT resource for teaching you data anayltic skills from simple excel spread sheets to deep machine learning algorthims. 
+For this course you will also have the option to work on <a href="https://www.datacamp.com"> Data Camp </a>. This is an EXCELLENT resource for teaching you data anayltic skills from simple excel spread sheets to deep machine learning algorthims. Right now three courses are currently assigned. 
+* Data analysis in spreadsheets
+* Introduction to R 
+* Introduction to the Tidyverse
+
+<!--- <a href="https://www.datacamp.com/groups/shared_links/6dfca28d268bb6e1195b080de3e0984548f3f9e568d10721ebc03486f46b1b0d"> Access Link </a>. --->
 
 ---
 
