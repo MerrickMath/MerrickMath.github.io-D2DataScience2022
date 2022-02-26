@@ -66,6 +66,7 @@ For this course you will also have the option to work on <a href="https://www.da
 * Introduction to R 
 * Introduction to the Tidyverse
 
+<!--- <a href="https://www.datacamp.com/groups/shared_links/6dfca28d268bb6e1195b080de3e0984548f3f9e568d10721ebc03486f46b1b0d"> Access Link  </a> --->
 
 ---
 
