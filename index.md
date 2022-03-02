@@ -11,6 +11,8 @@ Many of the challenges will require the use of R Studio. In this course we will 
 
 What Data are you interested in exploring? LET ME KNOW! 
 
+Challenges may be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEaXYEBU35c3QdWPwRR-iIX8pAIdfmMDa0qmuiuaMl6CjzoQ/viewform?usp=sf_link9"> here. </a> Please note you may only submit an answer for each assignment ONLY ONCE. 
+
 ---
 
 ### In Class Challenges
