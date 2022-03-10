@@ -25,7 +25,7 @@ Challenges may be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSf
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Week2Soln.pdf"> Exploring Music I SOLUTIONS </a> </li> --->  
          <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Activity2.pdf"> Exploring Lego </a> </li> 
         <!---<li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity2Soln.pdf"> Exploring Lego SOLUTIONS </a> </li> --->  
-        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Activity3.pdf"> Exploring Ted Talks </a> </li> ---> 
+        <a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Activity3.pdf"> Exploring Ted Talks </a> </li>
         <!---<li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity3Soln.pdf"> Exploring Ted Talks SOLUTIONS </a> </li> ---> 
       </ul>
 </p>
