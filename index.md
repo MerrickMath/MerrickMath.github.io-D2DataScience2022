@@ -37,7 +37,7 @@ Challenges may be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSf
       <ul>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Tutorials/IntroClass.html"> Intro Class </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Tutorials/Week2.html"> Week 2  </a> </li> 
-        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Tutorial1.html"> March 17: Introduction to the tidyverse.  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Tutorials/Tutorial1.html"> March 17: Introduction to the tidyverse.  </a> </li> 
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week4.html"> Week 4:  </a> </li> --->
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week5.html"> Week 5:  </a> </li> --->
         <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week6.html"> Week 6:  </a> </li> --->
