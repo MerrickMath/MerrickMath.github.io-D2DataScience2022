@@ -31,6 +31,7 @@ Challenges may be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSf
         <!---<li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Activity4Soln.pdf"> Exploring Avocados SOLUTIONS </a> </li> ---> 
         <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Activity5.pdf"> Exploring Penguins </a> </li> 
         <!---<li><a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/Activity5Soln.pdf"> Exploring Penguins SOLUTIONS </a> </li> ---> 
+        <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/ResearchProject.pdf"> Research Project </a> </li> 
       </ul>
 </p>
 
