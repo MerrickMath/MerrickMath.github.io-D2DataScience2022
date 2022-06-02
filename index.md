@@ -35,6 +35,7 @@ Challenges may be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSf
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity7Soln.pdf"> Exploring Books SOLUTIONS </a></li> --->
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11.pdf"> Exploring Movies </a> </li>
        <!--- <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity11Soln.pdf"> Exploring Movies SOLUTIONS </a></li> ---> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/Activity10.pdf"> Exploring Video Games </a> </li>
         <li> <a href="https://merrickmath.github.io/MerrickMath.github.io-D2DataScience2022/Activities/ResearchProject.pdf"> Research Project </a> </li> 
       </ul>
 </p>
